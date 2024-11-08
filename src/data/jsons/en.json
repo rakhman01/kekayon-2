@@ -1,0 +1,23 @@
+{
+    "welcome_message": "Welcome to our website!",
+    "home": "Home",
+    "about_us": "About Us",
+    "contact": "Contact",
+    "services": "Services",
+    "login": "Log In",
+    "logout": "Log Out",
+    "profile": "Profile",
+    "language": "Language",
+    "select_language": "Select Language",
+    "description": "This is a sample application to demonstrate multi-language support.",
+    "footer": {
+      "copyright": "© 2024 Company Name. All rights reserved.",
+      "privacy_policy": "Privacy Policy",
+      "terms_of_service": "Terms of Service"
+    },
+    "error": {
+      "not_found": "Page not found.",
+      "internal_server_error": "Internal server error. Please try again later."
+    }
+  }
+  

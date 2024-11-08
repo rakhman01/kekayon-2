@@ -1,0 +1,23 @@
+{
+    "welcome_message": "Bienvenido a nuestra aplicación",
+    "home": "Inicio",
+    "about_us": "Sobre nosotros",
+    "contact": "Contacto",
+    "services": "Servicios",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "profile": "Perfil",
+    "language": "Idioma",
+    "select_language": "Seleccionar idioma",
+    "description": "Esta es una descripción de muestra en español.",
+    "footer": {
+      "copyright": "© 2023 Todos los derechos reservados.",
+      "privacy_policy": "Política de privacidad",
+      "terms_of_service": "Términos del servicio"
+    },
+    "error": {
+      "404": "Página no encontrada",
+      "500": "Error interno del servidor"
+    }
+  }
+  
